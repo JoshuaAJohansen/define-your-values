@@ -1,0 +1,24 @@
+{
+  "name": "draggable-list",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash-es": "4.17.15",
+    "lodash-move": "1.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "react-scripts": "3.1.1",
+    "react-spring": "9.0.0-beta.34",
+    "react-use-gesture": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
