@@ -1,9 +1,16 @@
 # define-your-values
-This repo is a fork from codesandbox-https://codesandbox.io/s/draggable-list-vp020
 
-In Tony Robbin's book Unlimited Power he explains that complex systems must be congruent for them to work at a peak level. If actions aren't in alignment with values then a person will not be totally happy or fulfilled. To find out your hierarchy of values start with the first value, and ask for each value beneath it if anything is more important than this. Once you have finished that value, move on to the next. You can update the list accordingly as you find additional values that are important to you, or remove those that don't serve you.
+In Tony Robbin's book, 'Unlimited Power', he explains that <strong>humans will perform at a peak level if their actions are congruent with their values.</strong> When actions and values are out of alignment a person will not be totally happy, or fulfilled.
 
-![](defining-values.gif)
+This project serves as a way to find out the hierarchy of your values. Once you're done right them down, take a screenshot and save them to your phone to reference back.
+
+<img src="defining-values.gif" width="auto" height="400" />
+
+Check out the code sandbox to  [Define Your Values](https://codesandbox.io/s/github/Senofjohan/define-your-values/tree/master/). In the file 'index.js' at the bottom you can replace the 'values={'...' with your own, separating each value with a comma. Once you have them added, reorder them to understand your hierarchy of values. It is useful to go one at a time, and see if something is more important than another value, then drag it up. For example, if 'love' is more important than 'creativity' you would move 'love' above 'creativity'. Then compare 'love' with the value above that. After doing one value in its entirety, move on to the next.
+
+You can also play with adding or removing values, and thinking about how your life would change. Once you know what you value you can more easily make decisions in your day, and prioritize the things most important to you.
+
+After you know your values, you can work on reorienting yourself so that your actions are more congruent and fulfilling.
 
 ### Values from Unlimited Power:
 * Love
@@ -21,8 +28,8 @@ In Tony Robbin's book Unlimited Power he explains that complex systems must be c
 * Freedom
 * Honest
 
-To change the values listed in the draggable list you can do so at the bottom of 'index.js'.
-`render(<DraggableList items={'Love,Ecstasy,Mutual communication, Respect, Fun, Growth, Support, Challenge, Creativity, Beauty, Attraction, Spiritual Unity, Freedom, Honesty'.split(',')} />, document.getElementById('root'))`
-The values are comma separated. The other change I made to the additional repo is to remove the colors from the styles.css so that all the values are the same color, and that won't affect your opinion of a value.
+Keep in mind what you consider 'fun' may be 'challenge' to someone else, and 'growth' to a third person.
 
-Cheers to congruency!
+Have an inspiring day!
+
+This repo is a fork from codesandbox-https://codesandbox.io/s/draggable-list-vp020
