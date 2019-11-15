@@ -3,6 +3,8 @@ This repo is a fork from codesandbox-https://codesandbox.io/s/draggable-list-vp0
 
 In Tony Robbin's book Unlimited Power he explains that complex systems must be congruent for them to work at a peak level. If actions aren't in alignment with values then a person will not be totally happy or fulfilled. To find out your hierarchy of values start with the first value, and ask for each value beneath it if anything is more important than this. Once you have finished that value, move on to the next. You can update the list accordingly as you find additional values that are important to you, or remove those that don't serve you.
 
+![](defining-values.gif)
+
 ### Values from Unlimited Power:
 * Love
 * Ecstasy
