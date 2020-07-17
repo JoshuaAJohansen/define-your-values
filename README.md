@@ -2,7 +2,7 @@
 
 In Tony Robbin's book, 'Unlimited Power', he explains that <strong>humans will perform at a peak level if their actions are congruent with their values.</strong> When actions and values are out of alignment a person will not be totally happy, or fulfilled.
 
-This project serves as a way to find out the hierarchy of your values. Once you're done right them down, take a screenshot and save them to your phone to reference back.
+This project serves as a way to find out the hierarchy of your values.
 
 <img src="defining-values.gif" width="auto" height="400" />
 
